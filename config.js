@@ -53,7 +53,7 @@ var config = {
         {
             id: 'start',
             title: 'Setting sail',
-            image: './images/eXXpedition_Jen Russell.jpg',
+            image: './images/eXXpedition_Jen_Russell.jpg',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [-4.98700, 50.24418],
